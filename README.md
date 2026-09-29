@@ -4,6 +4,10 @@ A simple and interactive **Number Guessing Game** built using **HTML, CSS, and J
 
 The game generates a random number between **1 and 100**. The user enters a number and clicks the **Check** button. The game provides feedback based on the user's guess.
 
+## 🌐 Live Demo
+
+👉 **[View Guessing Game](https://guessing-game-git-main-sasi-kumar.vercel.app/)**
+
 ## 🚀 Features
 
 * 🎲 Generates a random number between 1 and 100
