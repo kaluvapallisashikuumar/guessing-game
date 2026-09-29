@@ -6,7 +6,7 @@ The game generates a random number between **1 and 100**. The user enters a numb
 
 ## 🌐 Live Demo
 
-👉 **[View Guessing Game](https://guessing-game-git-main-sasi-kumar.vercel.app/)**
+👉 **[View Guessing Game](https://guessing-game-nine-mu.vercel.app/)**
 
 ## 🚀 Features
 
